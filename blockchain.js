@@ -1,4 +1,4 @@
-var contractAddress = "0x557D0Ecd8A9ae210519d1bD9B543723E04941eEe";
+var contractAddress = "0xC8e7186465674fe0Efbbbda29F940e75bE505A56";
 var providerDefault = ethers.getDefaultProvider('rinkeby');
 var providerSigner;
 var signer;
